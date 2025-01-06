@@ -60,7 +60,8 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="express" width="40" height="40" />
 </a>
 <br /><br />
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
